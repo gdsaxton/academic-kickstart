@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: gdsaxton/academic-kickstart
   branch: master
 media_folder: 'static/media/'
 public_folder: 'media'
