@@ -30,7 +30,7 @@ collections:
         widget: "list"
       - label: Social links
         name: social
-        required: false
+        required: false 
         widget: list
         fields:
           - {label: Link, name: link, widget: string}
