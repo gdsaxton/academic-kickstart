@@ -8,4 +8,5 @@ organizations:
 superuser: false
 user_groups:
   - Researchers
+  - Visitors
 ---
