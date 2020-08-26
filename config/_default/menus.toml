@@ -28,10 +28,11 @@
   url = "#contact"
   weight = 60
   
-#[[main]]
-#  name = "People"
-#  url = "#people"
-#  weight = 60
+[[main]]
+  name = "People" # Title of the link.
+  url = "people/" # Widget Page folder name.
+  weight = 70 # Position of the link in the navigation bar.
+ 
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
