@@ -42,6 +42,6 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professor Dean Neu is a faculty member in the Schulich School of Business at York University, Toronto, Canada. Prior to joining the faculty, he was the Director of the Centre for Public Interest Accounting and faculty member at the University of Calgary. He has been a visiting professor at the University of Alberta, the University of Toronto and Universidad de Autonoma del Estado de Morelos in Mexico. He is currently the co-editor of Critical Perspectives on Accounting.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As an accounting scholar and activist Dean is committed to unveiling the presence of accounting where we might not otherwise expect to find it, he has in numerous articles and public appearances revealed how accounting plays a mediative role between governments and population segments. Dean?s research and writing demonstrate how accounting, working hand in hand with bureaucracies, shapes and constructs societal governance. In this work, the disguise of accounting as a boring benign appendage to business and government is stripped away to reveal how accounting number play a crucial role in shaping public policy and the perceptions the public has of those policies.
