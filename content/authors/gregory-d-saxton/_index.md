@@ -6,4 +6,6 @@ bio: Schulich School of Business
 organizations:
   - name: York University
 superuser: false
+user_groups:
+  - Researchers
 ---
