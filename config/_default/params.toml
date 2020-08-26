@@ -245,7 +245,7 @@ plugins_js  = []
     app_id = ""
     api_key = ""
     index_name = ""
-    show_logo = true
+    show_logo = false
 
 ############################
 ## Maps
