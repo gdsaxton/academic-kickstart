@@ -21,6 +21,13 @@ draft: false
 # links:
 # - name: ""
 #   url: ""
+
+
+#UNCOMMENTING THE FOLLOWING THREE LINES WILL CREATE A CUSTOM BUTTON LINK
+#links:
+#- name: Custom Link
+#  url: http://example.org
+  
 url_pdf: http://contentiouspolitics.social-metrics.org/media/BJPS.pdf
 url_code: ''
 url_dataset: 'http://contentiouspolitics.social-metrics.org'
@@ -29,6 +36,9 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+
+
 
 
 
