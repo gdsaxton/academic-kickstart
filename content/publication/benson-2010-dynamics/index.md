@@ -14,6 +14,22 @@ lastmod: 2020-08-27T15:47:27-04:00
 featured: false
 draft: false
 
+links: '/'
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: http://contentiouspolitics.gregorysaxton.net/media/BJPS.pdf
+url_code: ''
+url_dataset: 'http://contentiouspolitics.gregorysaxton.net'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
