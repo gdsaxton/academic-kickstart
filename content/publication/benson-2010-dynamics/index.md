@@ -14,8 +14,7 @@ lastmod: 2020-08-27T15:47:27-04:00
 featured: false
 draft: false
 
-links: '/'
-
+#links: '/'
 # links:
 # - name: ""
 #   url: ""
