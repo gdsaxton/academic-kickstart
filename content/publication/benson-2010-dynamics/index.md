@@ -14,13 +14,16 @@ lastmod: 2020-08-27T15:47:27-04:00
 featured: false
 draft: false
 
+# COMMENT OUT THE FOLLOWING LINE IN ORDER TO ACTIVATE THE LINK BUTTONS
+# CTRL - ALT - ? IN ORDER TO SEE ALL CHROMEBOOK SHORTCUTS
+# ALT - SEARCH TO TOGGLE CAPS LOCK
 #links: '/'
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://contentiouspolitics.gregorysaxton.net/media/BJPS.pdf
+url_pdf: http://contentiouspolitics.social-metrics.org/media/BJPS.pdf
 url_code: ''
-url_dataset: 'http://contentiouspolitics.gregorysaxton.net'
+url_dataset: 'http://contentiouspolitics.social-metrics.org'
 url_poster: ''
 url_project: ''
 url_slides: ''
