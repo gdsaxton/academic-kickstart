@@ -10,7 +10,7 @@ date: 2020-09-10
 
 ```python
 from IPython.display import Image
-Image(width=600, filename='/Users/gsaxton/Dropbox/screenshots/rosariotijeras.jpg') 
+Image(width=600, filename='Word Frequencies with Rosario Tijeras_2_0.jpeg') 
 ```
 
 
