@@ -64,6 +64,11 @@ Data science has emerged in the past decade with the emergence of Big Data and t
 
 [<img loading="lazy" src="http://social-metrics.org/wp-content/uploads/2018/10/venn.png" alt="" width="1071" height="1021" class="alignnone size-full wp-image-2418" srcset="http://social-metrics.org/wp-content/uploads/2018/10/venn.png 2142w, http://social-metrics.org/wp-content/uploads/2018/10/venn-300x286.png 300w, http://social-metrics.org/wp-content/uploads/2018/10/venn-768x732.png 768w, http://social-metrics.org/wp-content/uploads/2018/10/venn-1024x976.png 1024w" sizes="(max-width: 1071px) 100vw, 1071px" />][1]
 
+![This is an image](/img/image.png)
+
+![This is an image](/wp-content/uploads/2018/10/venn.png)
+
+
 Programming skills are needed to help access and download Big Data, to \`wrangle&#8217; the data into a usable state, and to write programs that can run sophisticated machine learning and related algorithms. Statistical skills are needed to ensure the appropriate research design methodologies are followed and statistical techniques applied; without this, your projects findings will not have validity. Finally, domain expertise is needed in order to identify questions that are worth answering. In accounting analytics, domain expertise is knowledge about the business and industry along with understanding of the accounting information system. 
 
 ### Data Analytics vs. Data Science
