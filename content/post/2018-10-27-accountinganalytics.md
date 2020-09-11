@@ -25,6 +25,7 @@ tags:
   - research
 
 ---
+
 One of the buzz-words in business schools is _data analytics_ or, in an accounting school, _accounting analytics_. But what exactly is &#8216;accounting analytics&#8217;? How is it different from existing tools and disciplines such as &#8216;statistics&#8217;, &#8216;computer science&#8217;, &#8216;machine learning, &#8216;Big Data&#8217;, or &#8216;managerial accounting&#8217;? In this post I will disentangle this emerging field. This is a first crack at this issue &#8212; I will continue to edit as the field (and my understanding of it) develops.
 
 # Accounting Analytics Defined
@@ -64,9 +65,9 @@ Data science has emerged in the past decade with the emergence of Big Data and t
 
 [<img loading="lazy" src="http://social-metrics.org/wp-content/uploads/2018/10/venn.png" alt="" width="1071" height="1021" class="alignnone size-full wp-image-2418" srcset="http://social-metrics.org/wp-content/uploads/2018/10/venn.png 2142w, http://social-metrics.org/wp-content/uploads/2018/10/venn-300x286.png 300w, http://social-metrics.org/wp-content/uploads/2018/10/venn-768x732.png 768w, http://social-metrics.org/wp-content/uploads/2018/10/venn-1024x976.png 1024w" sizes="(max-width: 1071px) 100vw, 1071px" />][1]
 
-![This is an image](/img/image.png)
 
 ![This is an image](/wp-content/uploads/2018/10/venn.png)
+
 
 
 Programming skills are needed to help access and download Big Data, to \`wrangle&#8217; the data into a usable state, and to write programs that can run sophisticated machine learning and related algorithms. Statistical skills are needed to ensure the appropriate research design methodologies are followed and statistical techniques applied; without this, your projects findings will not have validity. Finally, domain expertise is needed in order to identify questions that are worth answering. In accounting analytics, domain expertise is knowledge about the business and industry along with understanding of the accounting information system. 
@@ -111,6 +112,8 @@ As shown in the figure below, it is critical that the accounting analytics pract
 
 [<img loading="lazy" src="http://social-metrics.org/wp-content/uploads/2018/10/measurement-of-intangible.png" alt="" width="2742" height="1628" class="alignnone size-full wp-image-2457" srcset="http://social-metrics.org/wp-content/uploads/2018/10/measurement-of-intangible.png 2742w, http://social-metrics.org/wp-content/uploads/2018/10/measurement-of-intangible-300x178.png 300w, http://social-metrics.org/wp-content/uploads/2018/10/measurement-of-intangible-768x456.png 768w, http://social-metrics.org/wp-content/uploads/2018/10/measurement-of-intangible-1024x608.png 1024w" sizes="(max-width: 2742px) 100vw, 2742px" />][2]
 
+![This is an image](/wp-content/uploads/2018/10/measurement-of-intangible.png)
+
 None of these indicators in isolation would suffice. It is only by &#8216;triangulating&#8217; our findings that we are able to make any valid inferences. And it is only by employing data analytic techniques that we are able to gather and wrangle these data.
 
 Most accounting students are not trained in separating the conceptual from the measurement level, yet it is a critical piece of the puzzle. It is one of the core competencies of the data scientist&#8217;s training in statistics and methods.
@@ -124,6 +127,9 @@ Similarly, the analytics practitioner might wish to segment job applicants into 
 I&#8217;ll give one last example here. The figure below shows an accounting-related variable _sales_. Sales data would already be gathered in the accounting information system. Here is where many accountants would stop. Accounting analytics, however, brings something new to the table. Namely, accounting analytics is not only interested in measuring sales but in relating sales to other variables. In other words, the accounting analytics practitioner is keenly interested in seeing what other variables can _predict_ the increase (or decline) in sales. This is the search for relationships. Where data science enters the picture is in two ways. One, inferring relationships is inherently a statistical or methodological pursuit, and training in statistics is not typically a forte of the accountant. Two, the data employed is often _non-financial_ in nature. Big Data is commonly used and thus data science tools are a necessity. 
 
 [<img loading="lazy" src="http://social-metrics.org/wp-content/uploads/2018/10/Screenshot-2018-10-27-13.20.13.png" alt="" width="2232" height="1400" class="alignnone size-full wp-image-2463" srcset="http://social-metrics.org/wp-content/uploads/2018/10/Screenshot-2018-10-27-13.20.13.png 2232w, http://social-metrics.org/wp-content/uploads/2018/10/Screenshot-2018-10-27-13.20.13-300x188.png 300w, http://social-metrics.org/wp-content/uploads/2018/10/Screenshot-2018-10-27-13.20.13-768x482.png 768w, http://social-metrics.org/wp-content/uploads/2018/10/Screenshot-2018-10-27-13.20.13-1024x642.png 1024w" sizes="(max-width: 2232px) 100vw, 2232px" />][3]
+
+
+![This is an image](/wp-content/uploads/2018/10/Screenshot-2018-10-27-13.20.13.png)
 
 As shown in the figure, the accounting analytics team is interested in predicting future sales for the company. To help answer this question, the team gathers an array of financial data (not shown) as well as non-financial data, including the strength of the online brand community, the number of five-star Amazon reviews, an assessment of the company&#8217;s CSR and sustainability initiatives, weather patterns, and customer complaints. Once these data are gathered and wrangled, operational measures are developed and then statistical analyses are applied. Based on these analyses the team will have answers to what the strongest predictors of sales performance are. 
 
