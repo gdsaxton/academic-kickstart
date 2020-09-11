@@ -61,10 +61,9 @@ There are lots of good articles and blog posts out there on this point. The key 
 
 The second piece of the puzzle is \`Data Science.&#8217; Data scientists examine Big Data using a combination of programming skills, statistical skills, and domain knowledge to answer relevant organizational or societal questions.
 
+<img src="http://social-metrics.org/wp-content/uploads/2018/10/venn.png" />
+
 Data science has emerged in the past decade with the emergence of Big Data and the concurrent development of readily accessible sophisticated computing tools. At its core, data science is a field, or perhaps an approach, that lies at the intersection of three things: 1) computer programming, or &#8216;hacking&#8217;, skills; 2) mathematical and (especially) statistical skills; and 3) domain expertise. 
-
-[<img loading="lazy" src="http://social-metrics.org/wp-content/uploads/2018/10/venn.png" alt="" width="1071" height="1021" class="alignnone size-full wp-image-2418" srcset="http://social-metrics.org/wp-content/uploads/2018/10/venn.png 2142w, http://social-metrics.org/wp-content/uploads/2018/10/venn-300x286.png 300w, http://social-metrics.org/wp-content/uploads/2018/10/venn-768x732.png 768w, http://social-metrics.org/wp-content/uploads/2018/10/venn-1024x976.png 1024w" sizes="(max-width: 1071px) 100vw, 1071px" />][1]
-
 
 ![This is an image](/wp-content/uploads/2018/10/venn.png)
 
